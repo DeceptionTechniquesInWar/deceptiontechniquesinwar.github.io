@@ -1,0 +1,66 @@
+
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+
+
+
+h1 {
+  font-family: 'Sigmar One';
+  text-align:center;  
+}
+
+div {
+  font-family: 'Bangers';
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+h3 {
+  font-family:'Bangers';
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+h4 {
+  font-family:'Raleway';
+  text-align: center;
+}
+
+p {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: 'Raleway';
+  }
+img {
+  display: block;
+margin-right: auto;
+margin-left: auto;
+}
+ol {
+  font-family:'Sigmar One';
+}
+
+h2 {
+  font-family:'Bangers';
+  text-align: center;
+}
+body {
+  background-color:#CA33FF;
+}
+head {
+  background-color:#FF3355;
+}
+
+iframe {
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+}
